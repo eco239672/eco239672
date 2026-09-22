@@ -1,16 +1,20 @@
-## Hi there 👋
+# Andrej Sedlár
 
-<!--
-**eco239672/eco239672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer focused on clear, practical digital products.
 
-Here are some ideas to get you started:
+I build websites, e-shops and mobile applications with attention to usability, structure and reliable delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Websites and landing pages
+- E-shops and online sales flows
+- Mobile applications
+- UI implementation and practical digital workflows
+
+## Currently
+
+I am building projects and looking for an opportunity to contribute as a developer in a team.
+
+## Contact
+
+Open to professional opportunities and collaboration.
